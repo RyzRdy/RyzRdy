@@ -15,7 +15,6 @@
 <a href="https://github.com/RyzRdy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RyzRdy/RyzRdy?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-Ndak bisa github
 
 
 
