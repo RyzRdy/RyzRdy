@@ -16,7 +16,7 @@ My name
 Ndak bisa github
 
 <p align="center">
-<img src="" alt="GIF" width="128" height="128"/>
+<img src="https://images.alphacoders.com/968/968249.jpg" alt="IMG" width="128" height="128"/>
 </p>
 
 
