@@ -17,7 +17,7 @@
 
 
 <p align="center">
-<img src="" alt="GIF" width="200" height="150"/>
+<img src="" alt="IMG" width="200" height="200"/>
 </p>
 
 
