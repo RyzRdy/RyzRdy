@@ -16,7 +16,7 @@ My name
 Ndak bisa github
 
 <p align="center">
-<img src="https://images.app.goo.gl/9QvSrhZkQwN1et866" alt="GIF" width="128" height="128"/>
+<img src="" alt="GIF" width="128" height="128"/>
 </p>
 
 
