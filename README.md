@@ -3,7 +3,7 @@
 </p>
 </p>
 <p align="center">
-<a href="#"><img title="Ryz" src="https://img.shields.io/badge/Fauzy BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Ryz" src="https://img.shields.io/badge/RyzRdy-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/TobyG74"><img title="Name" src="https://img.shields.io/badge/Name-Radya-orange.svg?style=for-the-badge&logo=github"></a>
@@ -13,11 +13,6 @@
 <a href="https://github.com/RyzRyz/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RyzRdy/RyzRdy?color=red&style=flat-square"></a>
 <a href="https://github.com/RyzRdy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RyzRdy/RyzRdy?color=red&style=flat-square"></a>
 <a href="https://github.com/RyzRdy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RyzRdy/RyzRdy?label=Watchers&color=blue&style=flat-square"></a>
-</p>
-<p align="center">
-
-<a href="#"><img title="github" src="https://img.shields.io/badge/RyzRdy-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
 </p>
 
 Ndak bisa github
