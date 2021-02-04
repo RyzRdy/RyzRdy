@@ -16,7 +16,9 @@
 </p>
 
 
-
+<p align="center">
+<img src="https://giphy.com/gifs/cat-dancing-happy-IcJ6n6VJNjRNS" alt="GIF" width="200" height="150"/>
+</p>
 
 
 
