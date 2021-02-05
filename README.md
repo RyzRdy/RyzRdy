@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://static.zerochan.net/L.Lawliet.full.97075.jpg" alt="IMG" width="200" height="150"/>
+<img src="https://static.zerochan.net/L.Lawliet.full.97075.jpg" alt="IMG" width="200" height="200"/>
 </p>
 </p>
 <p align="center">
