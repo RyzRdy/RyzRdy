@@ -23,7 +23,7 @@
 </p>
 
 
-
+---
 
 
 ```bash
@@ -31,11 +31,13 @@
 
 • Thanks dah berkunjung
 ```
-
+---
 • [whatsapp](https://wa.me/6282147334265)
+---
 ```bash
 My friends
 ```
+
 > [Nazwa](https://github.com/NazwaS)
 
 > [Fauzy](https://github.com/Fauzy-Rahadian)
@@ -43,7 +45,7 @@ My friends
 > [M Hadi](https://github.com/Mr-hadi)
 
 >
-
+---
 
 
 
