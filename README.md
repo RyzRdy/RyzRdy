@@ -25,12 +25,12 @@
 
 
 ```bash
-• whatsapp  [this site](https://mhankbarbar.tech)
+• Semoga bagus :)
 
 • Thanks dah berkunjung
 ```
 
-
+• whatsapp [click](https://wa.me/6282147334265)
 
 
 
