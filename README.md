@@ -32,8 +32,8 @@
 • Thanks dah berkunjung
 ```
 ---
- **[whatsapp](https://wa.me/6282147334265)**
- **[Instagram]
+ [whatsapp](https://wa.me/6282147334265)
+ **[Instagram]**
 ---
 
 ```bash
