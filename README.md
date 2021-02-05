@@ -21,9 +21,9 @@
 </p>
 
 
-| Ano maaf jelek |
+| Ano maaf jelek |✓|
 | :---------------------------------------------: | :-----------: |
-| Gabisa github |
+| Gabisa github |p|
 
 
 
