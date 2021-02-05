@@ -25,7 +25,7 @@
 
 
 ```bash
-• whatsapp[click](https://wa.me/6282147334265)
+• whatsapp [click here](https://wa.me/6282147334265)
 
 • Thanks dah berkunjung
 ```
