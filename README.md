@@ -15,7 +15,6 @@
 <a href="https://github.com/RyzRyz"><img title="Stars" src="https://img.shields.io/github/stars/RyzRdy/RyzRdy?color=red&style=flat-square"></a>
 <a href="https://github.com/RyzRdy"><img title="Forks" src="https://img.shields.io/github/forks/RyzRdy/RyzRdy?color=red&style=flat-square"></a>
 <a href="https://github.com/RyzRdy"><img title="Watching" src="https://img.shields.io/github/watchers/RyzRdy/RyzRdy?label=Watchers&color=blue&style=flat-square"></a>
-
 <a href="https://instagram.com/radyaajisa"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
  
 </p>
