@@ -25,7 +25,7 @@
 
 
 ```bash
-• whatsapp [click here](https://wa.me/6282147334265)
+• whatsapp  [this site](https://mhankbarbar.tech)
 
 • Thanks dah berkunjung
 ```
