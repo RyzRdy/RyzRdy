@@ -36,20 +36,18 @@ My friends
 ```
 > [Nazwa](https://github.com/NazwaS)
 
->
+> [Fauzy](https://github.com/Fauzy-Rahadian)
+
+> 
 
 >
 
->
 
 
 
 
 
 
-
-| Ano maaf jelek gabisa github |🙏🏻|
-| :---------------------------------------------: | :-----------: |
 
 
 
