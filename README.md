@@ -19,7 +19,7 @@
 
  
 <p align="center">
-<img src="https://static.zerochan.net/L.Lawliet.full.97075.jpg" alt="IMG" width="170" height="200"/>
+<img src="https://static.zerochan.net/L.Lawliet.full.97075.jpg" alt="IMG" width="175" height="200"/>
 </p>
 
 
