@@ -9,10 +9,10 @@
 <a href="https://github.com/RyzRdy"><img title="Name" src="https://img.shields.io/badge/Name-Radya-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/RyzRdy/followers"><img title="Followers" src="https://img.shields.io/github/followers/RyzRdy?color=blue&style=flat-square"></a>
-<a href="https://github.com/RyzRyz/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RyzRdy/RyzRdy?color=red&style=flat-square"></a>
-<a href="https://github.com/RyzRdy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RyzRdy/RyzRdy?color=red&style=flat-square"></a>
-<a href="https://github.com/RyzRdy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RyzRdy/RyzRdy?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/RyzRdy"><img title="Followers" src="https://img.shields.io/github/followers/RyzRdy?color=blue&style=flat-square"></a>
+<a href="https://github.com/RyzRyz"><img title="Stars" src="https://img.shields.io/github/stars/RyzRdy/RyzRdy?color=red&style=flat-square"></a>
+<a href="https://github.com/RyzRdy"><img title="Forks" src="https://img.shields.io/github/forks/RyzRdy/RyzRdy?color=red&style=flat-square"></a>
+<a href="https://github.com/RyzRdy"><img title="Watching" src="https://img.shields.io/github/watchers/RyzRdy/RyzRdy?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 
