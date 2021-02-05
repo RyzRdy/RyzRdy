@@ -15,7 +15,7 @@
 <a href="https://github.com/RyzRdy"><img title="Watching" src="https://img.shields.io/github/watchers/RyzRdy/RyzRdy?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-
+ 
 <p align="center">
 <img src="https://static.zerochan.net/L.Lawliet.full.97075.jpg" alt="IMG" width="170" height="200"/>
 </p>
@@ -25,7 +25,7 @@
 
 
 ```bash
-• Masih Noob
+• whatsapp[click](https://wa.me/6282147334265)
 
 • Thanks dah berkunjung
 ```
