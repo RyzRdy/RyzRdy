@@ -34,7 +34,7 @@
 • Thanks dah berkunjung
 ```
 ---
- -> [whatsapp](https://wa.me/6282147334265)
+ **[whatsapp](https://wa.me/6282147334265)**
 ---
 
 
@@ -42,11 +42,11 @@
 My friends
 ```
 
--> [Nazwa](https://github.com/NazwaS)
+> [Nazwa](https://github.com/NazwaS)
 
--> [Fauzy](https://github.com/Fauzy-Rahadian)
+> [Fauzy](https://github.com/Fauzy-Rahadian)
 
--> [M Hadi](https://github.com/Mr-hadi)
+> [M Hadi](https://github.com/Mr-hadi)
 
 >
 ---
