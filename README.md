@@ -41,9 +41,9 @@
 
 
 
-| Ano maaf jelek |🙏🏻|
+| Ano maaf jelek gabisa github |🙏🏻|
 | :---------------------------------------------: | :-----------: |
-| Gabisa github |🙂|
+
 
 
 
