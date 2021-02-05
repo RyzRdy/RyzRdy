@@ -6,7 +6,7 @@
 <a href="#"><img title="RyzRdy" src="https://img.shields.io/badge/RyzRdy-green?colorA=%23ff0000&colorB=%2307e4&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/TobyG74"><img title="Name" src="https://img.shields.io/badge/Name-Radya-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/RyzRdy"><img title="Name" src="https://img.shields.io/badge/Name-Radya-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/RyzRdy/followers"><img title="Followers" src="https://img.shields.io/github/followers/RyzRdy?color=blue&style=flat-square"></a>
