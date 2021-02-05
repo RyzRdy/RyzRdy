@@ -24,7 +24,7 @@
 
 
 
-```
+```bash
 • Masih Noob
 
 • Thanks dah berkunjung
