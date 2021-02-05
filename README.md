@@ -32,7 +32,7 @@
 • Thanks dah berkunjung
 ```
 
-• whatsapp [click](https://wa.me/6282147334265)
+• [whatsapp](https://wa.me/6282147334265)
 ```bash
 My friends
 ```
