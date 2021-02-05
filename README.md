@@ -34,7 +34,7 @@
 ```bash
 My friends
 ```
-> 
+> [Nazwa](https://github.com/NazwaS)
 
 >
 
