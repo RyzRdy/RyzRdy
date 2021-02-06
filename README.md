@@ -34,7 +34,7 @@
 • Thanks dah berkunjung
 ```
 ---
- **[whatsapp](https://wa.me/6282147334265)**
+• [whatsapp](https://wa.me/6282147334265)
 ---
 
 
