@@ -43,9 +43,9 @@ My friends
 ```
 
 > [Nazwa](https://github.com/NazwaS)
-
+---
 > [Fauzy](https://github.com/Fauzy-Rahadian)
-
+---
 > [M Hadi](https://github.com/Mr-hadi)
 
 >
